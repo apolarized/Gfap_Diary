@@ -1,0 +1,50 @@
+<resources>
+    <!-- strings.xml -->
+    <string name="app_name">GFAP Diary</string>
+    <string name="app_title">GFAP Protein Diary</string>
+    <string name="attention">Attention</string>
+    <string name="back_button">Back</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_question">Are you sure you want to delete?</string>
+    <string name="no_item_description">No GFAP values stored.\nTap + to add.</string>
+    <string name="no_measurements_yet">No measurements yet</string>
+    <string name="last_measurement">Last measurement</string>"
+    <string name="edit_item_title">Edit Item</string>
+    <string name="item">Item</string>
+    <string name="item_detail_title">Details</string>
+    <string name="item_entry_title">Add Item</string>
+    <string name="item_name_req">Item Name*</string>
+    <string name="gfap_value_req">Gfap Value*</string>
+    <string name="no">No</string>
+    <string name="gfapval">GFAP value</string>
+    <string name="save_action">Save</string>
+    <string name="edit_action">Edit</string>
+    <string name="yes">Yes</string>
+    <string name="required_fields">*required fields</string>
+    <string name="info_body"> GFAP (Glial Fibrillary Acidic Protein) is a structural protein found primarily in astrocytes, a type of glial cell in the central nervous system.\nElevated GFAP levels are associated with traumatic brain injury, stroke, and diseases like Alzheimer\'s, making it a key biomaker for neurological conditions.\nThis application is intended for users who need to continuously monitor their GFAP levels, view statistical data, and share their history with medical professionals.</string>
+    <string name="normal_range">Normal levels: 0 - 0.2 ng/ml</string>
+    <string name="elevated_range">Elevated levels: 0.2 - 0.5 ng/ml</string>
+    <string name="high_range">High levels: >0.5 ng/ml</string>
+    <string name="thirty_day_average">30-Day Average</string>"
+    <string name="measure_unit">ng/ml</string>
+    <string name="settings_title">Settings</string>"
+    <string name="normal_levels">Normal Levels</string>
+    <string name="elevated_levels">Elevated Levels</string>
+    <string name="high_levels">High Levels</string>
+    <string name="comment">Comment (optional)</string>"
+    <!-- Settings Screen-->
+    <string name="delete_all_data">Delete All Data</string>
+    <string name="delete_all_data_confirmation">Are you sure you want to delete all your data? This action cannot be undone.</string>
+    <!-- Date Range Picker Dialog -->
+    <string name="date_range_picker_title">Select Date Range</string>
+    <!-- Statistics Screen -->
+    <string name="statistics_title">Statistics</string>
+    <string name="no_data_on_period">No data available for the selected period</string>
+    <string name="minimum_value">Minimum Value:</string>"
+    <string name="maximum_value">Maximum Value:</string>
+    <string name="average_value">Average Value:</string>
+    <string name="total_measurements">Total Measurements:</string>
+    <string name="range_distribution">GFAP Range Distribution</string>
+
+</resources>
